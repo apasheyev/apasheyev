@@ -5,9 +5,6 @@
 Building enterprise software, cloud integrations, APIs, and intelligent
 applications with C#, .NET, Azure, SQL Server, React, and AI.
 
-Currently building 🌾 **AgroAerial** and exploring the intersection of
-enterprise software, AI engineering, and application security.
-
 ## 💡 What I Do
 
 - 🏗️ Enterprise application architecture
@@ -22,11 +19,6 @@ enterprise software, AI engineering, and application security.
 - 🤖 AI-powered application development
 
 ## 🚀 Currently Building
-
-### 🌾 AgroAerial
-
-A modern agriculture platform for field management, drone operations,
-GIS mapping, agricultural products, prescriptions and ERP integrations.
 
 **Stack:** C# • ASP.NET Core • React • TypeScript • SQL Server • Azure
 
